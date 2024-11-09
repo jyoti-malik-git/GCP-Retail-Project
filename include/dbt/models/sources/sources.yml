@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail
+    database: airflow-tutorial-438511 # Put the project id!
+
+    tables:
+      - name: raw_invoices
+      - name: country

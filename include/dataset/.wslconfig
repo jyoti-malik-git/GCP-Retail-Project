@@ -1,0 +1,3 @@
+memory=6GB       # Set the memory limit to 6 GB
+processors=4     # Set the number of processors to 4
+swap=8GB         # Set swap memory if needed

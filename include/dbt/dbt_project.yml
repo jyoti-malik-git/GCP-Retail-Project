@@ -1,0 +1,7 @@
+name: 'retail'
+
+profile: 'retail'
+target-path: "target"
+models:
+  retail:
+    materialized: table
